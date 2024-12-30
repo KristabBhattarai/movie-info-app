@@ -1,6 +1,7 @@
 # Movie Search App (Get Movies)
 
 This is a simple React application that allows users to search for movie information through an API.
+Preview: https://movie-search-app.kristab.com.np
 
 ## Features
 

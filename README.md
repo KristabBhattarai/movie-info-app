@@ -35,6 +35,8 @@ This is a simple React application that allows users to search for movie informa
    ```
    npm install
    ```
+4. Rename .env-example to .env and place your api key.
+   Learn how to get Api key by [clicking here](https://www.themoviedb.org/documentation/api)
 
 ### Running the Application
 

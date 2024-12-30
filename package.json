@@ -1,7 +1,7 @@
 {
   "name": "movie-search-app",
-  "version": "1.0.0",
-  "description": "A React application for searching movie information.",
+  "version": "1.9.1",
+  "description": "A React application for searching movie information made by Kristab Bhattarai.",
   "main": "src/index.js",
   "scripts": {
     "start": "react-scripts start",
@@ -22,10 +22,10 @@
     "react-icons": "^5.4.0",
     "react-scripts": "^5.0.1"
   },
-  "homepage": "http://your-app-url.com",
+  "homepage": "http://kristabmovieserachapp.netlify.app",
   "repository": {
     "type": "git",
-    "url": "http://your-repo-url.git"
+    "url": "https://github.com/KristabBhattarai/movie-search-app"
   },
   "browserslist": {
     "production": [
